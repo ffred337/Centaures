@@ -1,0 +1,27 @@
+
+
+                                                VOTRE COMMANDE : bc677767-ee87-11ec-baad-8045ddc3a73e!!!! 🛍️                                                 
+    ┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓    
+    ┃ id_produit ┃         nom          ┃    P.U (XAF) ┃     Volume_T ┃      Masse_T ┃              Qte               ┃             Cout_T             ┃    
+    ┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩    
+    │    P001    │ Biscuit Naya Citron  │         50.0 │       15.0 L │    15300.0 g │              15.0              │           750.0 XAF            │    
+    │    P012    │   Bonbon Maxi Pop    │       1100.0 │        5.0 L │     5000.0 g │              5.0               │           5500.0 XAF           │    
+    └────────────┴──────────────────────┴──────────────┴──────────────┴──────────────┴────────────────────────────────┴────────────────────────────────┘    
+                                                               ╭───────────────────────────╮                                                                
+                                                               │ NET A PAYER : 6250.0 XAF  │                                                                
+                                                               ╰───────────────────────────╯                                                                
+
+
+
+
+NUMERO COMMANDE:    bc677767-ee87-11ec-baad-8045ddc3a73e
+ID CLIENT: CL025
+NOM CLIENT: julien
+TEL CLIENT: +237 652525252
+MAIL CLIENT: Littoral
+ADRESSE CLIENT: julienStarFill@hotmail.com
+DATE DE COMMANDE: 2022-06-17T23:52:09.092588
+
+
+
+ : MONSIEUR/MADAME A CE STADE DE CONCEPTION CE DOCUMENT FERA OFFICE DE BON DE COMMANDE - LIVRAISON - FACTURE

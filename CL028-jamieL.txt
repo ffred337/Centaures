@@ -1,0 +1,25 @@
+
+
+                                                VOTRE COMMANDE : 321e9cc2-ef5c-11ec-8cac-8045ddc3a73e!!!! 🛍️                                                 
+    ┏━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓    
+    ┃ id_produit ┃         nom          ┃    P.U (XAF) ┃     Volume_T ┃      Masse_T ┃              Qte               ┃             Cout_T             ┃    
+    ┡━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩    
+    └────────────┴──────────────────────┴──────────────┴──────────────┴──────────────┴────────────────────────────────┴────────────────────────────────┘    
+                                                                  ╭──────────────────────╮                                                                  
+                                                                  │ NET A PAYER : 0 XAF  │                                                                  
+                                                                  ╰──────────────────────╯                                                                  
+
+
+
+
+NUMERO COMMANDE:    321e9cc2-ef5c-11ec-8cac-8045ddc3a73e
+ID CLIENT: CL028
+NOM CLIENT: jamieL
+TEL CLIENT: +237 678451200
+MAIL CLIENT: Nord-Ouest
+ADRESSE CLIENT: jamieLkt@gmail.tl
+DATE DE COMMANDE: 2022-06-19T01:12:59.882668
+
+
+
+ : MONSIEUR/MADAME A CE STADE DE CONCEPTION CE DOCUMENT FERA OFFICE DE BON DE COMMANDE - LIVRAISON - FACTURE
